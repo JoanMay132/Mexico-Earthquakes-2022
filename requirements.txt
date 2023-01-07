@@ -1,4 +1,4 @@
-ddash==2.6.2
+dash==2.6.2
 dash-bootstrap-components==1.3.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
