@@ -209,7 +209,7 @@ app.layout = html.Div(
                 ),
                 html.A(
                     html.Button("Source Code", className="link-button"),
-                    href="https://github.com/JoanMay132/Mexico-Earthquales-2022.git",
+                    href="https://github.com/JoanMay132/Mexico-Earthquakes-2022",
                 ),
                 html.H4(children="Earthquakes in Mexico 2022"),
                 html.P(
